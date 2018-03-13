@@ -1,0 +1,8 @@
+body {
+    background: blue;
+}
+
+a {
+    list-style: none;
+    display: inline-block;
+}
